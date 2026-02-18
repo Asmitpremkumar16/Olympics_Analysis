@@ -1,8 +1,5 @@
 # 🏅 Olympics Data Analysis App
 
-<a href="YOUR_STREAMLIT_LINK_HERE" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-</a>
 
 ---
 
